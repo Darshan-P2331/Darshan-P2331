@@ -3,7 +3,7 @@
 
 ## Hey 👋, I'm [Darshan.P](https://github.com/Darshsn-P2331/)
 
-I am Darshan.P, a Mobile :iphone: and Web :globe_with_meridians: developer! Currently pursuing Bachelor of Engineering in Information Sceince 🎓. I'm a problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Gaming, reading Manga and watching Anime.
+I am Darshan.P, a Python + (DocAI, Gemini) and Web :globe_with_meridians: developer! Currently working as Associate (SDE-2) in Deutsche Bank. I'm a problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Gaming, reading Manga and watching Anime.
 <!--
 **Darshan-P2331/Darshan-P2331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 -->
 ### More About Me:
 
-- 🔭 I’m currently working on Flutter and Firebase
-- 🌱 I’m currently learning ExpressJS and NodeJs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Backend
+- 🔭 I’m currently working on Python and DocAI/Gemini
+- 🌱 I’m currently learning NestJS and NodeJs
 - 💬 Ask me about anything I have knowledge about
 - 📫 How to reach me: darshanp2331@gmail.com
 - ⚡ Fun fact: Sum of first 9 primes is 100 
